@@ -283,7 +283,7 @@ export default function App() {
           >
             <SectionHeader title="Conectividade" subtitle="Wi-Fi de alta velocidade para clientes" icon={Wifi} />
             <div className="p-[1px] rounded-[1.5rem] bg-gradient-to-br from-zinc-800/40 via-zinc-900/20 to-transparent">
-              <div className="p-4.5 rounded-[1.4rem] bg-zinc-900/40 backdrop-blur-md flex flex-col gap-4 relative overflow-hidden border border-white/5">
+              <div className="p-5 rounded-[1.4rem] bg-zinc-900/40 backdrop-blur-md flex flex-col gap-4 relative overflow-hidden border border-white/5">
                 <div className="flex justify-between items-center">
                   <div>
                     <p className="text-[9px] uppercase text-zinc-500 font-bold tracking-widest mb-0.5">Rede Cliente</p>
@@ -311,7 +311,7 @@ export default function App() {
           >
             <SectionHeader title="Pagamento" subtitle="Rapidez e segurança com chave PIX" icon={CreditCard} />
             <div className="p-[1px] rounded-[1.5rem] bg-gradient-to-br from-zinc-800/40 via-zinc-900/20 to-transparent">
-              <div className="p-4.5 rounded-[1.4rem] bg-zinc-900/40 backdrop-blur-md relative overflow-hidden flex flex-col gap-3.5 border border-white/5">
+              <div className="p-5 rounded-[1.4rem] bg-zinc-900/40 backdrop-blur-md relative overflow-hidden flex flex-col gap-3.5 border border-white/5">
                 <div className="flex items-center justify-between bg-black/40 border border-white/5 rounded-xl p-3">
                   <div className="flex flex-col">
                     <span className="text-[9px] uppercase text-zinc-500 font-bold mb-0.5">Chave CNPJ</span>
