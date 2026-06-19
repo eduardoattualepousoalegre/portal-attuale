@@ -452,7 +452,7 @@ export default function App() {
                 {/* FOTO 1 - FACHADA DA OFICINA */}
                 <div className="w-full h-52 rounded-xl overflow-hidden shadow-lg relative border border-white/10 bg-zinc-900">
                   <img 
-                    src="https://i.postimg.cc/63Z72M6Y/IMG-1243.jpg" 
+                    src="https://i.postimg.cc/1tRqTGyd/IMG-1252.avif" 
                     alt="Fachada Attuale Peças e Serviços" 
                     className="w-full h-full object-cover"
                   />
