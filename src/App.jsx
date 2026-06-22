@@ -25,7 +25,7 @@ const BRAND = {
 // Imagens para o Carrossel do Header (Banner 2 é o degradê/vídeo)
 const BANNERS = [
   'https://i.postimg.cc/wjK939yP/IMG-20220819-090100.jpg', 
-  'https://i.postimg.cc/nhvHj2JX/OFICINA-MECANICA-ESPECIALIZADA-ATTUALE.jpg'
+  'https://i.postimg.cc/tgZ8nCPT/OFICINA-MECANICA-ESPECIALIZADA-ATTUALE-(1).jpg'
 ];
 
 /**
