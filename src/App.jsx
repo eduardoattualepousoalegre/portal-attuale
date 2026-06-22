@@ -25,7 +25,7 @@ const BRAND = {
 // Imagens para o Carrossel do Header (Banner 2 é o degradê/vídeo)
 const BANNERS = [
   'https://i.postimg.cc/wjK939yP/IMG-20220819-090100.jpg', 
-  'COLE_O_LINK_DO_SEU_VIDEO_AQUI.mp4'
+  'https://i.postimg.cc/nhvHj2JX/OFICINA-MECANICA-ESPECIALIZADA-ATTUALE.jpg'
 ];
 
 /**
@@ -460,7 +460,7 @@ export default function App() {
                 </div>
 
                 <p>
-                  Fundada em 2021, em Pouso Alegre, a <span className="text-white font-bold">Attuale</span> nasceu com um propósito muito claro: oferecer uma nova experiência em manutenção automotiva, unindo conhecimento técnico, transparência e um atendimento verdadeiramente próximo de cada cliente.
+                  Fundada em 2019, em Pouso Alegre, a <span className="text-white font-bold">Attuale</span> nasceu com um propósito muito claro: oferecer uma nova experiência em manutenção automotiva, unindo conhecimento técnico, transparência e um atendimento verdadeiramente próximo de cada cliente.
                 </p>
                 <p>
                   Desde o início, entendemos que cuidar de um veículo vai muito além de substituir peças ou corrigir falhas. É necessário conhecer suas particularidades, realizar diagnósticos precisos e apresentar soluções responsáveis, respeitando as reais necessidades de cada automóvel e de seu proprietário.
